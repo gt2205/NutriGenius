@@ -1,0 +1,3 @@
+-Developed using Crew AI, Langchain and Llama3-70b model having serper tool and webscrapper.
+-Uses a multiagent AI crew of 3 LLM’s working in hierarchical process managed by a manager LLM.
+-Given the patient’s medical condition, height, weight, age and choices like vegetarian or non- vegetarian, it outputs a 7 day meal plan for the patient ensuring a balanced diet for patient.
